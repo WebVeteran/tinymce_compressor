@@ -3,6 +3,7 @@
 //  the browser to do two requests instead of one for each .js file.
 //  Notice: This script defaults the button_tile_map option to true
 //  for extra performance.
+//  Currently rebuilding to match the PHP version.
 --->
 
 <cfsavecontent variable="credits">
